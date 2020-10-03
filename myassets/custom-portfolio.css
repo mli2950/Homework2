@@ -28,3 +28,16 @@ main div h1 {
     margin-bottom: 20px;
     margin-top: -40px;
 }
+
+footer {
+    background-color: #FC766AFF;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 300;
+    bottom: 0;
+    position: sticky;
+    padding-top: 5px;
+}
+
+.footerTitle {
+    font-weight: bold;
+}

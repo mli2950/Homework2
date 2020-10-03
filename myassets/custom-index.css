@@ -65,3 +65,19 @@ h5 {
 img {
     background-color: black
 }
+
+footer {
+    background-color: #FC766AFF;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 300;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: sticky;
+    padding-top: 5px;
+    
+}
+
+.footerTitle {
+    font-weight: bold;
+}
