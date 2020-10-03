@@ -48,6 +48,7 @@ main div h1 {
     border:none;
     float: right;
     text-align: center;
+    background-color: #5B84B1FF;
 }
 
 #card2 {
@@ -62,9 +63,6 @@ h5 {
     text-align: center;
 }
 
-img {
-    background-color: black
-}
 
 footer {
     background-color: #FC766AFF;
@@ -80,4 +78,16 @@ footer {
 
 .footerTitle {
     font-weight: bold;
+}
+
+#cardtext {
+    background-color: #5B84B1FF;
+}
+
+#cardbody {
+    background-color: #5B84B1FF;
+}
+
+#cardtitle {
+    background-color: #5B84B1FF;
 }
