@@ -1,0 +1,23 @@
+header {
+    background-color: #3A5063;
+    position: sticky; 
+    top: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #E6D5AE;
+}
+
+.jumbotron {
+    background-color: #E6D5AE;
+}
+
+.nav-link active {
+    background-color: #E6D5AE;
+}
+
+main div h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
