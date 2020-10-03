@@ -1,11 +1,26 @@
 header {
-    background-color: #3A5063;
+    background-color: #FC766AFF;
 }
 
 body {
-    background-color: #E6D5AE;
+    background-color: #5B84B1FF;
 }
 
 .jumbotron {
-    background-color: #E6D5AE;
+    background-color: #5B84B1FF;
+}
+
+h1 {
+    text-align: center;
+}
+
+#left-side {
+    float: right;
+}
+
+main div h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+    margin-top: -40px;
 }

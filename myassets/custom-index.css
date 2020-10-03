@@ -1,23 +1,66 @@
 header {
-    background-color: #3A5063;
+    background-color: #FC766AFF;
     position: sticky; 
     top: 0px;
     font-family: 'Montserrat', sans-serif;
 }
 
 body {
-    background-color: #E6D5AE;
+    background-color: #5B84B1FF;
 }
 
 .jumbotron {
-    background-color: #E6D5AE;
+    background-color: #5B84B1FF;
 }
 
 .nav-link active {
-    background-color: #E6D5AE;
+    background-color: #5B84B1FF;
 }
 
 main div h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+    margin-top: -40px;
+}
+
+#index-right {
+    text-align: right;;
+}
+
+.card-body {
+    text-align: ;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(164, 186, 209);
+    font-size: 18px;
+}
+
+.card-text {
+    background-color: rgb(164, 186, 209);
+}
+
+.card-title {
+    background-color: rgb(164, 186, 209);
+}
+
+#card1 {
+    border:none;
+    float: right;
+    text-align: center;
+}
+
+#card2 {
+    border: none;
+}
+#card2-body {
+    font-size: 15px;
+}
+
+h5 {
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    background-color: black
 }
