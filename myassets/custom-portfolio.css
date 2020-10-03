@@ -1,5 +1,9 @@
 header {
     background-color: #FC766AFF;
+    position: sticky; 
+    top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 300;
 }
 
 body {
