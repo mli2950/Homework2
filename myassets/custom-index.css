@@ -14,57 +14,49 @@ body {
 .jumbotron {
     background-color: #5B84B1FF;
 }
-/* Changed */
+/* Changed the color of the active nav-pill background */
 a.nav-link.active {
     background-color:  rgb(164, 186, 209) !important;
 }
-
+/* Styling and positioning for the headers */
 main div h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 20px;
     margin-top: -40px;
 }
-
-#index-right {
-    text-align: right;
-}
-
+/* Styling, and background color for the about me card */
 .card-body {
-    text-align: ;
     font-family: 'Montserrat', sans-serif;
-    background-color: rgb(164, 186, 209);
-    font-size: 18px;
+    background-color: #5B84B1FF;
+    font-size: 20px;
 }
-
+/* Background color for the card-text section */
 .card-text {
-    background-color: rgb(164, 186, 209);
+    background-color: #5B84B1FF;
 }
-
+/* Background color for the card-title section */
 .card-title {
-    background-color: rgb(164, 186, 209);
+    background-color:#5B84B1FF;
 }
-
+/* Aligned the card containing my picture and text, to the right. Also aligned it to the right, aligned text to the center and removed the border.  */
 #card1 {
     border:none;
     float: right;
     text-align: center;
     background-color: #5B84B1FF;
 }
-
+/* Removed the border from about me card */
 #card2 {
     border: none;
 }
-#card2-body {
-    font-size: 15px;
-}
-
+/* Font styling for my 2 H5 headers */
 h5 {
     font-weight: bold;
     text-align: center;
 }
 
-
+/* Styling, Z-index, and positioning for my footer */
 footer {
     background-color: #FC766AFF;
     font-family: 'Montserrat', sans-serif;
@@ -73,13 +65,13 @@ footer {
     left: 0;
     width: 100%;
     position: fixed;
-    padding-top: 20px;
+    padding-top: 10px;
     max-height: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     
 }
 
-
+/* Background coloring for text section underneath the picture */
 #cardtext {
     background-color: #5B84B1FF;
 }
@@ -91,11 +83,9 @@ footer {
 #cardtitle {
     background-color: #5B84B1FF;
 }
-
-.row {
-    vertical-align: top;
-}
-
+/* Styling for the text inside my list elements */
 main li {
     padding: .5em;
+    line-height: 25px;
+    font-size: 18px;
 }
