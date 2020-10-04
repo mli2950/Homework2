@@ -28,10 +28,8 @@ footer {
     z-index: 300;
     bottom: 0;
     width: 100%;
-    position: fixed;
+    position: absolute;
     padding-top: 15px;
+    
 }
 
-.footerTitle {
-    font-weight: bold;
-}

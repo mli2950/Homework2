@@ -38,6 +38,7 @@ footer {
     padding-top: 5px;
 }
 
-.footerTitle {
-    font-weight: bold;
+#leftimg {
+    float: right;
+    clear: right;
 }
