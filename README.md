@@ -13,3 +13,8 @@ Setting up the HTML for this project was fairly simple. The hardest parts were g
 [My Repository](https://github.com/mli2950/Homework2)
 
 
+## Screenshots of live websites
+
+![Home Page](mli2950.github.io_Homework2_.png "Home Page")
+![Portfolio](mli2950.github.io_Homework2_portfolio.html.png "Portfolio")
+![Contact](mli2950.github.io_Homework2_contact.html.png "Contact")
