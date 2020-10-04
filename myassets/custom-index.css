@@ -1,4 +1,4 @@
-/* Header styling, positiong and z-index */
+/* Header styling, positiong and z-index(stacks on top of other content) */
 header {
     background-color: #FC766AFF;
     position: sticky; 
@@ -17,6 +17,11 @@ body {
 /* Changed the color of the active nav-pill background */
 a.nav-link.active {
     background-color:  rgb(164, 186, 209) !important;
+    color: #212529 !important;
+}
+/* Changed the link text color */
+a.nav-link {
+    color: #212529;
 }
 /* Styling and positioning for the headers */
 main div h1 {

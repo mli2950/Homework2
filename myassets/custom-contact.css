@@ -1,3 +1,4 @@
+/* Header styling, positiong and z-index(stacks on top of other content) */
 header {
     background-color: #FC766AFF;
     position: sticky; 
@@ -5,23 +6,27 @@ header {
     font-family: 'Montserrat', sans-serif;
     z-index: 300;
 }
-
+/* Body background color */
 body {
     background-color: #5B84B1FF;
 }
 
+/* Jumbotron background color  */
 .jumbotron {
     background-color: #5B84B1FF;
 }
 
+/* Moved the form down a little bit */
 form {
     margin-top: 50px;
 }
 
+/* Changed font of text inside the form */
 .container {
     font-family: 'Montserrat', sans-serif;
 }
 
+/* Styling, Z-index, and positioning for my footer */
 footer {
     background-color: #FC766AFF;
     font-family: 'Montserrat', sans-serif;
@@ -35,6 +40,12 @@ footer {
     
 }
 
+/* Changed the color of the active nav-pill background */
 a.nav-link.active {
     background-color:  rgb(164, 186, 209) !important;
+    color: #212529 !important;
+}
+/* Changed the link text color */
+a.nav-link {
+    color: #212529;
 }
