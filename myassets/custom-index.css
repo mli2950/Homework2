@@ -26,7 +26,7 @@ main div h1 {
 }
 
 #index-right {
-    text-align: right;;
+    text-align: right;
 }
 
 .card-body {
@@ -71,8 +71,10 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
-    position: sticky;
-    padding-top: 5px;
+    position: fixed;
+    padding-top: 20px;
+    max-height: 40px;
+    padding-bottom: 40px;
     
 }
 
@@ -87,4 +89,12 @@ footer {
 
 #cardtitle {
     background-color: #5B84B1FF;
+}
+
+.row {
+    vertical-align: top;
+}
+
+li {
+    padding: .5em;
 }

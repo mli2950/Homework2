@@ -37,10 +37,13 @@ footer {
     background-color: #FC766AFF;
     font-family: 'Montserrat', sans-serif;
     z-index: 300;
+    width: 100%;
     bottom: 0;
     position: sticky;
-    padding-top: 5px;
+    padding-top: 20px;
     margin-top: 40px;
+    height: 40px;
+    padding-bottom: 40px;
 }
 
 #leftimg {
