@@ -12,6 +12,10 @@ body {
 
 .jumbotron {
     background-color: #5B84B1FF;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    margin-bottom: -60px;
 }
 
 h1 {
@@ -36,9 +40,9 @@ footer {
     bottom: 0;
     position: sticky;
     padding-top: 5px;
+    margin-top: 40px;
 }
 
 #leftimg {
-    float: right;
-    clear: right;
+    float:right;
 }
