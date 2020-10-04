@@ -9,7 +9,7 @@ Setting up the HTML for this project was fairly simple. The hardest parts were g
 
 ## Links
 
-[Live Webpage](https://mli2950.github.io/Homework2/)
+[Live Webpage](https://mli2950.github.io/Homework2/) <br/>
 [My Repository](https://github.com/mli2950/Homework2)
 
 
