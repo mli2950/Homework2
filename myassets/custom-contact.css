@@ -35,3 +35,6 @@ footer {
     
 }
 
+a.nav-link.active {
+    background-color:  rgb(164, 186, 209) !important;
+}
