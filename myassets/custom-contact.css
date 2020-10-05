@@ -31,9 +31,7 @@ footer {
     background-color: #FC766AFF;
     font-family: 'Montserrat', sans-serif;
     z-index: 300;
-    bottom: 0;
-    width: 100%;
-    position: absolute;
+    position: sticky;
     padding-top: 10px;
     max-height: 40px;
     padding-bottom: 0px;

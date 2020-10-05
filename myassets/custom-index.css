@@ -54,6 +54,7 @@ main div h1 {
 /* Removed the border from about me card */
 #card2 {
     border: none;
+    width: 100%;
 }
 /* Font styling for my 2 H5 headers */
 h5 {
@@ -89,8 +90,9 @@ footer {
     background-color: #5B84B1FF;
 }
 /* Styling for the text inside my list elements */
-main li {
+main p {
     padding: .5em;
     line-height: 25px;
     font-size: 18px;
 }
+
