@@ -74,7 +74,7 @@ footer {
     padding-top: 10px;
     max-height: 40px;
     padding-bottom: 0px;
-    
+    padding-top: 10px;
 }
 
 /* Background coloring for text section underneath the picture */
@@ -96,3 +96,7 @@ main p {
     font-size: 18px;
 }
 
+#Github, #linkedin{
+    height: 30px;
+    padding-bottom: 5px;;
+}

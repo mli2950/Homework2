@@ -32,9 +32,12 @@ footer {
     font-family: 'Montserrat', sans-serif;
     z-index: 300;
     position: sticky;
+    bottom: 0;
+    left: 0;
     padding-top: 10px;
     max-height: 40px;
     padding-bottom: 0px;
+    
     
 }
 
@@ -46,4 +49,11 @@ a.nav-link.active {
 /* Changed the link text color */
 a.nav-link {
     color: #212529;
+}
+
+#Github, #linkedin{
+    height: 30px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+    
 }
