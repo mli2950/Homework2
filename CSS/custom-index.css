@@ -100,4 +100,10 @@ main p {
     padding-bottom: 5px;;
 }
 
-img
+#borderimg {
+    height: 350px;;
+    width: 350px;
+    margin: 0 auto;
+    
+}
+
