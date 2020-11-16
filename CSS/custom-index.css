@@ -5,15 +5,14 @@ header {
     top: 0px;
     font-family: 'Montserrat', sans-serif;
     z-index: 300;
+    margin-bottom: 15px;
+    
 }
 /* Body background color */
 body {
     background-color: #5B84B1FF;
 }
-/* Jumbotron background color  */
-.jumbotron {
-    background-color: #5B84B1FF;
-}
+
 /* Changed the color of the active nav-pill background */
 a.nav-link.active {
     background-color:  rgb(164, 186, 209) !important;

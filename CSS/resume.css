@@ -1,0 +1,45 @@
+/* Header styling, positiong and z-index(stacks on top of other content) */
+header {
+  background-color: #fc766aff;
+  position: sticky;
+  top: 0px;
+  font-family: "Montserrat", sans-serif;
+  z-index: 300;
+}
+
+/* Body background color */
+body {
+  background-color: #5b84b1ff;
+}
+
+/* Styling, Z-index, and positioning for my footer */
+footer {
+  background-color: #fc766aff;
+  font-family: "Montserrat", sans-serif;
+  z-index: 300;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  padding-top: 10px;
+  margin-top: 40px;
+  height: 40px;
+  padding-bottom: 0px;
+}
+
+/* Changed the color of the active nav-pill background */
+a.nav-link.active {
+  background-color: rgb(164, 186, 209) !important;
+  color: #212529 !important;
+}
+/* Changed the link text color */
+a.nav-link {
+  color: #212529;
+}
+
+#Github,
+#linkedin {
+  height: 30px;
+  padding-bottom: 5px;
+}
+
