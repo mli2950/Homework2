@@ -15,6 +15,6 @@ I used the template of my Week 2 homework, the portfolio website. I changed the 
 
 ## Screenshots of live websites
 
-![Home Page](Images/aboutMe.png "Home Page")
+![Home Page](Assets/Images/aboutMe.png "Home Page")
 ![Portfolio](mli2950.github.io_Homework2_portfolio.html.png "Portfolio")
 ![Contact](mli2950.github.io_Homework2_contact.html.png "Contact")
