@@ -1,20 +1,20 @@
-## Homework 2
+## Homework 7
 
-This homework was to create a website, with an "About me" homepage, a portfolio, and contact form that is responsive to different platforms.
+The task of this homework was to get my portfolio, github, and linkedin ready for employers to view.
 
 
 ## Coding
 
-Setting up the HTML for this project was fairly simple. The hardest parts were getting things positioned correctly using the grid layout, and changing my bootstrap elements to the styling that I wanted with CSS properties.
+I used the template of my Week 2 homework, the portfolio website. I changed the styling of some elements, added a carousel to display my projects, and introduced my resume and contact info to the page.
 
 ## Links
 
-[Live Webpage](https://mli2950.github.io/Homework2/) <br/>
-[My Repository](https://github.com/mli2950/Homework2)
+[Live Webpage](https://mli2950.github.io/Portfolio/) <br/>
+[My Repository](https://github.com/mli2950/Portfolio)
 
 
 ## Screenshots of live websites
 
-![Home Page](mli2950.github.io_Homework2_.png "Home Page")
+![Home Page](Images/aboutMe.png "Home Page")
 ![Portfolio](mli2950.github.io_Homework2_portfolio.html.png "Portfolio")
 ![Contact](mli2950.github.io_Homework2_contact.html.png "Contact")
